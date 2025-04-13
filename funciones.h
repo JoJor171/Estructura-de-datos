@@ -1,8 +1,8 @@
 #ifndef funciones
 #define funciones
 #include "tdas/list.h"
-#include "struct.h"
 
+void mostrarMenuPrincipal();
 void registrar_ticket(List *tickets);
 void asignar_prioridad(List *tickets);
 void mostrar_lista_tickets(List *tickets);

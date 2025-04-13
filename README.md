@@ -29,7 +29,7 @@ Este sistema ha sido desarrollado en lenguaje C y puede ser ejecutado utilizando
    - Abre la terminal integrada (`Terminal > Nueva terminal`)
    - Ejecuta:
      ```bash
-     gcc main.c tdas/list.c tdas/extra.c -o gestor_tickets
+     gcc main.c tdas/list.c tdas/extra.c funciones.c -o gestor_tickets
      ```
 
 4. **Ejecuta la aplicación**

@@ -1,4 +1,3 @@
-#include "tdas/list.h"
 #include "tdas/extra.h"
 #include "struct.h"
 #include "funciones.h"
