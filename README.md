@@ -11,9 +11,9 @@ Este sistema ha sido desarrollado en lenguaje C y puede ser ejecutado utilizando
 
 ### Requisitos previos:
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- Extensión **C/C++** (Microsoft)
-- Compilador de C (recomendado: **gcc** con [MinGW](https://www.mingw-w64.org/) o usando [WSL](https://learn.microsoft.com/en-us/windows/wsl/))
+- [Visual Studio Code]
+- Extensión **C/C++** 
+- Compilador de C 
 
 ### Pasos para compilar y ejecutar:
 
